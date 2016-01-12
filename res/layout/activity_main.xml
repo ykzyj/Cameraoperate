@@ -10,6 +10,13 @@
         android:id="@+id/but_open_camera"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="无关相机" 
+        />
+
+    <Button
+        android:id="@+id/but_open_camera"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:text="启动相机" 
         />
     
